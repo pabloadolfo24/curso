@@ -1,2 +1,2 @@
-# curso
-Módulo 1
+# Curso de Git y LaTeX
+Estudiante: Pablo Adolfo Jimenez Zabalaga
